@@ -1,0 +1,4 @@
+What is the difference between a merge and a rebase?
+
+Rebase moves all commits of another branch to the front of the original branch, 
+whereas merge takes the newest commit of another branch and places that in front of the commits in the original branch.
